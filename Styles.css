@@ -1,3 +1,58 @@
 body{
     background-color:#F7F6FB;
 }
+
+h1{
+    font-weight: bolder;
+    font-size: 2.5rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.container{
+    margin: 80px auto;
+    max-width: 600px;
+}
+
+form{
+    padding: 30px;
+    background-color: white;
+    border-radius: 8px;
+}
+
+.information{
+    padding: 6px;
+    border-radius: 4px;
+    width:75%;
+    border:1px solid rgb(128, 128, 128, 0.1);
+}
+
+.submit{
+    padding: 6px;
+    border-radius: 4px;
+    width:14%;
+    border: 1px solid;
+}
+
+main{
+    margin-bottom: 15px;
+}
+
+.poem{
+    font-size: 1.2rem;
+    background-color: white;
+    padding:10px;
+    line-height: 1.5;
+    border-left: 3px solid blueviolet;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+footer{
+    font-size: 12px;
+    margin-top: 30px;
+}
+
+a{
+    color: #7C52EE;
+}
