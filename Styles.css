@@ -1,5 +1,5 @@
 body{
-    background-color:#F7F6FB;
+    background-color:#C3DFFE;
 }
 
 h1{
@@ -16,7 +16,7 @@ h1{
 
 form{
     padding: 30px;
-    background-color: white;
+    background-color: #e4f1ff;
     border-radius: 8px;
 }
 
@@ -29,9 +29,17 @@ form{
 
 .submit{
     padding: 6px;
-    border-radius: 4px;
+    border-radius: 5px;
     width:14%;
     border: 1px solid;
+    background-color: rgb(161, 90, 227);
+    font-size: 1.03rem;
+}
+
+.submit:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+    color: white;
 }
 
 main{
@@ -40,7 +48,7 @@ main{
 
 .poem{
     font-size: 1.2rem;
-    background-color: white;
+    background-color: #e4f1ff;
     padding:10px;
     line-height: 1.5;
     border-left: 3px solid blueviolet;
