@@ -46,10 +46,15 @@ main{
     border-left: 3px solid blueviolet;
     border-radius: 4px;
     margin-top: 10px;
+    display: none;
 }
 
 .poem strong{
     color:blueviolet
+}
+
+.hint{
+    opacity: 0.6;
 }
 
 footer{
