@@ -6,3 +6,4 @@ Technologies used are:
 HTML
 CSS
 Vanilla javascript
+SheCodes AI API
