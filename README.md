@@ -8,4 +8,4 @@ CSS
 Vanilla javascript
 SheCodes AI API
 
-It a a fun website
+It's a fun website
